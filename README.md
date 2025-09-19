@@ -6,6 +6,7 @@ It comes with Dark Mode, Categories, Search, and Local Storage to keep your task
 
 ![image alt](https://github.com/HimaleePatil/TaskMate/blob/main/Screenshot%202025-09-19%20202115.png?raw=true)
 ![image alt](https://github.com/HimaleePatil/TaskMate/blob/main/Screenshot%202025-09-19%20202142.png?raw=true)
+![image alt](https://github.com/HimaleePatil/TaskMate/blob/main/Screenshot%202025-09-19%20210633.png?raw=true)
 
 🛠️ Tech Stack
 
