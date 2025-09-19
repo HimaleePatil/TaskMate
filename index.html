@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TaskMate 📝</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>TaskMate 📝</h1>
+    <button id="toggle-mode">🌙 Dark Mode</button>
+  </header>
+
+  <main>
+    <section class="task-input">
+      <input type="text" id="taskInput" placeholder="Enter a new task..." />
+      <input type="date" id="taskDate" />
+      <select id="taskCategory">
+        <option value="General">General</option>
+        <option value="Work">Work</option>
+        <option value="Study">Study</option>
+        <option value="Personal">Personal</option>
+      </select>
+      <button id="addTask">Add Task ➕</button>
+    </section>
+
+    <section class="task-controls">
+      <input type="text" id="searchTask" placeholder="🔍 Search tasks..." />
+      <button id="clearCompleted">Clear Completed ✅</button>
+    </section>
+
+    <section class="task-stats">
+      <p>Total Tasks: <span id="totalTasks">0</span></p>
+      <p>Completed: <span id="completedTasks">0</span></p>
+    </section>
+
+    <ul id="taskList"></ul>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
