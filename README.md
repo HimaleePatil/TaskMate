@@ -3,6 +3,7 @@
 
 TaskMate is a modern and responsive To-Do List Web App designed to help you stay productive and organized.
 It comes with Dark Mode, Categories, Search, and Local Storage to keep your tasks safe even after refreshing or closing the browser.
+The app focuses on simplicity, usability, and a clean interface so you spend less time managing tasks and more time completing them.
 
 
 ![image alt](https://github.com/HimaleePatil/TaskMate/blob/main/Screenshot%202025-09-19%20202115.png?raw=true)
